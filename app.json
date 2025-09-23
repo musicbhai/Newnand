@@ -49,7 +49,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "URL of your GitHub repository",
-      "value": "https://t.me/Asianbots/4",
+      "value": "https://github.com/musicbhai/Newnand",
       "required": false
     },
     "STRING_SESSION": {

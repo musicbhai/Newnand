@@ -68,7 +68,7 @@ SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/AsianOfficial")
 INSTAGRAM = os.getenv("INSTAGRAM", "https://www.instagram.com")
 YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@NandEditz")
 GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
-DONATE = os.getenv("DONATE", "https://t.me/Asianbots/3")
+DONATE = os.getenv("DONATE", "https://t.me/Asianbots/5")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

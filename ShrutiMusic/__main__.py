@@ -35,9 +35,9 @@ from config import BANNED_USERS
 
 # Bot Commands List
 COMMANDS = [
-    BotCommand("start", "🚀 Start bot"),
-    BotCommand("help", "❓ Help menu and Many More Management Commands"),
-    BotCommand("ping", "📡 Ping and system stats"),
+    BotCommand("start", "🚀 Start Aura"),
+    BotCommand("help", "❓Aura Help menu and Many More Management Commands"),
+    BotCommand("ping", "📡 Aura Ping and system stats"),
     BotCommand("play", "🎵 Start streaming the requested track"),
     BotCommand("vplay", "📹 Start video streaming"),
     BotCommand("playrtmps", "📺 Play Live Video"),
@@ -118,7 +118,7 @@ async def init():
         await Nand.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
     except NoActiveGroupCall:
         LOGGER("ShrutiMusic").error(
-            "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
+            "Please turn on the videochat of your log group\channel.\n\nStopping Aura Bot..."
         )
         exit()
     except:
@@ -134,7 +134,7 @@ async def init():
 
     await app.stop()
     await userbot.stop()
-    LOGGER("ShrutiMusic").info("Stopping Shruti Music Bot...🥺")
+    LOGGER("ShrutiMusic").info("Stopping Aura Music Bot...🥺")
 
 if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(init())

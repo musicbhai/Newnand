@@ -29,7 +29,7 @@
     },
     "MONGO_DB_URI": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
-      "value": "mongodb+srv://music1ygffygfgdf_db_user:music1ygffygfgdf_db_user@cluster0.0lbiwen.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+      "value": "mongodb+srv://music1ygffygfgdf_db_user:music1ygffygfgdf_db_user@cluster0.0lbiwen.mongodb.net",
       "required": true
     },
     "OWNER_ID": {
@@ -104,7 +104,7 @@
     },
     "DONATE": {
       "description": "Link where people can support/donate",
-      "value": "https://t.me/Asianbots/3",
+      "value": "https://t.me/Asianbots/5",
       "required": false
     },
     "COOKIE_URL": {

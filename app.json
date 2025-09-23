@@ -1,7 +1,7 @@
 {
   "name": "Shruti Music",
   "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-  "logo": "https://files.catbox.moe/v7hio8.jpg",
+  "logo": "https://files.catbox.moe/d4z1dl.jpg",
   "keywords": [
     "python3",
     "telegram",
@@ -14,12 +14,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "29448785",
+      "value": "21911467",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "599574f6aff0a09ebb76305b58e7e9c2",
+      "value": "2e37d8eb31651b4d5c3391f8778c63a9",
       "required": true
     },
     "BOT_TOKEN": {
@@ -29,27 +29,27 @@
     },
     "MONGO_DB_URI": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
-      "value": "mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION",
+      "value": "mongodb+srv://music1ygffygfgdf_db_user:music1ygffygfgdf_db_user@cluster0.0lbiwen.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "7574330905",
+      "value": "8293633911",
       "required": true
     },
     "OWNER_USERNAME": {
       "description": "The username of the owner (without @)",
-      "value": "WTF_WhyMeeh",
+      "value": "RobotYadav",
       "required": true
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "ShrutixMusicBot",
+      "value": "vcsongbot",
       "required": true
     },
     "UPSTREAM_REPO": {
       "description": "URL of your GitHub repository",
-      "value": "https://github.com/NoxxOP/ShrutiMusic",
+      "value": "https://t.me/TryAura",
       "required": false
     },
     "STRING_SESSION": {
@@ -74,22 +74,22 @@
     },
     "LOG_GROUP_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
-      "value": "-1002321189618",
+      "value": "-1002910391354",
       "required": true
     },
     "SUPPORT_GROUP": {
       "description": "Your support group username (without @)",
-      "value": "https://t.me/ShrutiBotsupport",
+      "value": "https://t.me/AsianOfficial",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel username (without @)",
-      "value": "https://t.me/ShrutiBots",
+      "value": "https://t.me/Asianbots",
       "required": false
     },
     "INSTAGRAM": {
       "description": "Your Instagram profile link",
-      "value": "https://instagram.com/yaduwanshi_nand",
+      "value": "https://www.instagram.com/sa7yamyadav",
       "required": false
     },
     "YOUTUBE": {
@@ -99,12 +99,12 @@
     },
     "GITHUB": {
       "description": "Your GitHub profile link",
-      "value": "https://github.com/NoxxOP",
+      "value": "https://t.me/AsiaGrp",
       "required": false
     },
     "DONATE": {
       "description": "Link where people can support/donate",
-      "value": "https://t.me/ShrutiBots/91",
+      "value": "https://t.me/Asianbots/3",
       "required": false
     },
     "COOKIE_URL": {

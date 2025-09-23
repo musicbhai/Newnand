@@ -49,7 +49,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "URL of your GitHub repository",
-      "value": "https://github.com/musicbhai/Newnand",
+      "value": "https://t.me/Asianbots/4",
       "required": false
     },
     "STRING_SESSION": {
@@ -89,17 +89,17 @@
     },
     "INSTAGRAM": {
       "description": "Your Instagram profile link",
-      "value": "https://www.instagram.com/sa7yamyadav",
+      "value": "https://www.instagram.com/internet.inflation",
       "required": false
     },
     "YOUTUBE": {
       "description": "Your YouTube channel link",
-      "value": "https://youtube.com/@NandEditz",
+      "value": "https://youtube.com",
       "required": false
     },
     "GITHUB": {
       "description": "Your GitHub profile link",
-      "value": "https://github.com/NoxxOP",
+      "value": "https://t.me/AuraRobots",
       "required": false
     },
     "DONATE": {

@@ -65,7 +65,7 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
 SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/Asianbots")
 SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/AsianOfficial")
-INSTAGRAM = os.getenv("INSTAGRAM", "https://www.instagram.com/sa7yamyadav")
+INSTAGRAM = os.getenv("INSTAGRAM", "https://www.instagram.com")
 YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@NandEditz")
 GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
 DONATE = os.getenv("DONATE", "https://t.me/Asianbots/3")
